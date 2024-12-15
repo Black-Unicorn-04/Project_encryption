@@ -1,3 +1,3 @@
 Encryption methods using python.
 
-hashes
+1.hashes = "Hash Brown"
