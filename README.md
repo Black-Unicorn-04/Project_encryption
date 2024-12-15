@@ -1,3 +1,3 @@
-Encryption methods using python...
+Encryption methods using python.
 
 hashes
