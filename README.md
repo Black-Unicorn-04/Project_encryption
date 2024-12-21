@@ -1,3 +1,3 @@
 Encryption methods using python.
 
-1.hashes = "Hash Brown"
+1. hashes = "Hash Brown"
